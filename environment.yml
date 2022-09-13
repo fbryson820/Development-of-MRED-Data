@@ -1,0 +1,6 @@
+name: mred-data
+channels:
+  - defaults
+dependencies:
+  - numpy
+  - matplotlib

@@ -1,0 +1,103 @@
+{
+    "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+    "@type": "SoftwareSourceCode",
+    "license": "https://spdx.org/licenses/CC-BY-4.0",
+    "codeRepository": "https://github.gatech.edu/VERNE/Miniature-Robotic-Electrodialysis-Development-Data",
+    "dateCreated": "2022-09-12",
+    "name": "Miniature Robotic Electrodialysis Development Data",
+    "description": "Data and Analysis as part of the Development of the Miniature Robotic Electrodialysis (MR ED) System for Small-Scale Desalting of Liquid Samples with Recovery of Organics.\n\nA Jupyter notebook is used as a laboratory notebook and contains the data and some visualization.",
+    "author": [
+        {
+            "@type": "Person",
+            "@id": "https://orcid.org/0000-0003-2102-9681",
+            "givenName": "Frances",
+            "familyName": "Bryson",
+            "email": "fbryson7@gatech.edu",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "Georgia Institute of Technology"
+            }
+        },
+        {
+            "@type": "Person",
+            "givenName": "Ellery",
+            "familyName": "Ingall",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "Georgia Institute of Technology"
+            }
+        },
+        {
+            "@type": "Person",
+            "givenName": "Ashley",
+            "familyName": "Hanna",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "Georgia Institute of Technology, University of Maryland"
+            }
+        },
+        {
+            "@type": "Person",
+            "givenName": "Maria",
+            "familyName": "Cardelino",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "Georgia Institute of Technology"
+            }
+        },
+        {
+            "@type": "Person",
+            "givenName": "Taylor",
+            "familyName": "Plattner",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "Georgia Institute of Technology"
+            }
+        },
+        {
+            "@type": "Person",
+            "givenName": "Matthew",
+            "familyName": "Meister",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "Cornell University"
+            }
+        },
+        {
+            "@type": "Person",
+            "givenName": "Justin",
+            "familyName": "Lawrence",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "Georgia Institute of Technology"
+            }
+        },
+        {
+            "@type": "Person",
+            "givenName": "Andrew",
+            "familyName": "Mullen",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "Georgia Institute of Technology"
+            }
+        },
+        {
+            "@type": "Person",
+            "givenName": "Daniel",
+            "familyName": "Dichek",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "Georgia Institute of Technology"
+            }
+        },
+        {
+            "@type": "Person",
+            "givenName": "Britney",
+            "familyName": "Schmidt",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "Cornell University"
+            }
+        }
+    ]
+}
