@@ -5,4 +5,5 @@ A Jupyter notebook is used as a laboratory notebook and contains the data and so
 
 Publicly accessible [link to Jupyter notebook](https://mybinder.org/v2/gh/fbryson820/Development-of-MRED-Data.git/main?labpath=Development%20of%20the%20Miniature%20Robotic%20Electrodialysis%20(MR%20ED)%20System%20for%20Small-Scale%20Desalting%20of%20Liquid%20Samples%20with%20Recovery%20of%20Organics.ipynb) via Binder is available.
 
-[![Binder](https://mybinder.org/v2/gh/fbryson820/Development-of-MRED-Data/main?labpath=Notebook.ipynb)]
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fbryson820/Development-of-MRED-Data/main?labpath=Notebook.ipynb)
+
